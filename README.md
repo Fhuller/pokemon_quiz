@@ -1,3 +1,7 @@
 # pokemon_quiz
 
-A new Flutter project.
+Equipe:
+Felipe Beppler Huller
+Kelvin Ida
+
+N2 - Desenvolvimento mobile, turma B
